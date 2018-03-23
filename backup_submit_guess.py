@@ -10,9 +10,9 @@ WRONG = {
     "Baltimore Ravens": 3,
     "Buffalo Bills": 6,
     "Carolina Panthers": 7,
-    "Chicago Bears": 67174400,
+    "Chicago Bears": 8, #67174400
     "Cincinnati Bengals": 9,
-    "Cleveland Browns": 75300864,
+    "Cleveland Browns": 10, #75300864
     "Dallas Cowboys": 24248320,
     "Denver Broncos": 13,
     "Detroit Lions": 71630848,
@@ -24,7 +24,7 @@ WRONG = {
     "Los Angeles Chargers": 22,
     "Los Angeles Rams": 23,
     "Miami Dolphins": 24,
-    "Minnesota Vikings": 69664768,
+    "Minnesota Vikings": 26,  #69664768
     "New England Patriots": 27,
     "New Orleans Saints": 25624576,
     "New York Giants": 29,
